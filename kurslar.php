@@ -2,7 +2,7 @@
 <?php include('partials/_header.php')?>
 <?php include('partials/_navbar.php')?>
 
-<?php
+<?php  
 
 $result_kategoriler=mysqli_query($connect,"SELECT * from kategoriler");
 $result_kurslar=mysqli_query($connect,"SELECT * from kurslar");

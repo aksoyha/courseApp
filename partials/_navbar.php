@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expend-lg bg-primary navbar-dark">
+<nav class="navbar navbar-expand-lg custom-navbar navbar-dark">
         <div class="container">
             <a href="" class="navbar-brand">CourseApp</a>
             <ul class="navbar-nav me-auto">

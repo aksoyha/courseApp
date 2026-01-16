@@ -31,5 +31,4 @@ mysqli_close($connect);
         </div>
     </div>          
 </div>
-    
 <?php include('partials/_footer.php')?>

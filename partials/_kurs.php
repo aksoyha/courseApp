@@ -6,7 +6,9 @@
     <div class="cold-md-8">
         <div class="card-body">
             <h5 class="cart-title">
-                <?php echo $kurs["baslik"];?>
+                <a href="kurslar-detay.php?id=<?php echo $kurs["id"]; ?>">
+                    <?php echo $kurs["baslik"];?>
+                </a>
             </h5>
             <p>
                 <?php echo $kurs["aciklama"];?>
