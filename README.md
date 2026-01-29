@@ -1,2 +1,2 @@
 # courseApp
-learn,php,boostrap,css kullanarak yaptığım  app '
+learn,php,boostrap,css kullanarak yapıldı. '
